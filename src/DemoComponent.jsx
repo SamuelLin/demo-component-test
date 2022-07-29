@@ -6,7 +6,7 @@ import './demoComponent.css';
 function DemoComponent(props) {
   const { msg } = props;
   const ref = useRef(null);
-  const { docX, docY, posX, posY, elX, elY, elW, elH } = useMouse(ref);
+  const { elX, elY } = useMouse(ref);
   
   return (
     <div className="demo-component" ref={ref}>
