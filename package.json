@@ -1,6 +1,6 @@
 {
   "name": "react-storybook-demo-component",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "private": false,
   "type": "module",
   "exports": {
