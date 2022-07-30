@@ -9,6 +9,8 @@ A published-ready template for Vue 3 components and composable functions library
 
 ## Install
 
+Also feel free to use pnpm
+
 ```bash
 yarn
 # or
@@ -34,5 +36,7 @@ npm run build
 ## Publish
 
 ```bash
+yarn release
+# or
 npm run release
 ```
