@@ -1,6 +1,11 @@
-# react-storybook-demo-component
+# vite-react-storybook-lib-starter
 
-Use vitejs, storybook to build great react components.
+A published-ready template for Vue 3 components and composable functions library.
+
+- react
+- vite
+- vitest
+- storybook
 
 ## Install
 
@@ -29,6 +34,5 @@ npm run build
 ## Publish
 
 ```bash
-# important!! just use npm
 npm run release
 ```
