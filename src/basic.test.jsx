@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import '@testing-library/jest-dom'
 import { render, screen } from '../utils/test-utils'
 import DemoComponent from './DemoComponent'
